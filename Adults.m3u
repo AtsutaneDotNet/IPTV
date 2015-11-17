@@ -1,0 +1,11 @@
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/playboy_tv_us.png",PLAYBOY TV
+http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/vv/venus_ar.png",VENUS TV
+http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/redlight_hd.png",REDLIGHT HD
+http://46.47.0.238:8890/rtp/224.244.244.157:19993
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hustler_tv_europe_hd.png",HUSTLER HD
+http://46.47.0.238:8890/rtp/224.244.244.158:19993
