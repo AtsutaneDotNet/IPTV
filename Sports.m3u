@@ -1,0 +1,11 @@
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png",Astro Supersport
+http://185.63.252.176/live/antenasportucl1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_2.png",Astro Supersport 2
+http://185.63.252.176/live/antenasportucl2/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_3.png",Astro Supersport 3
+http://185.63.252.176/live/antenasportucl3/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_4.png",Astro Supersport 4
+http://185.63.252.176/live/antenasportucl4/playlist.m3u8
