@@ -44,3 +44,13 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/syfy_br.png",Syfy
+http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png",HBO
+http://37.203.209.34:443/mobile/flash20/live.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_best_my.png",Astro Best
+http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
+
