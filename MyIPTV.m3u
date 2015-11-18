@@ -91,9 +91,6 @@ http://goo.gl/kG2SVh
 #EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",BUKIT KEPONG
 http://goo.gl/mi4RDE
 
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",JEJAK WARRIORS
-http://goo.gl/Ak3HzP
-
 #EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",PIXELS
 http://goo.gl/zZuzpA
 
@@ -121,7 +118,7 @@ http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
 #EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",TURBO
 http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",VIDEO ON DEMAND
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",RANDOM
 http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png" group-title="Astro",ASTRO SUPERSPORT
