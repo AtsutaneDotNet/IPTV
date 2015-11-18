@@ -6,10 +6,13 @@ http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png" group-title="Movies",HBO
 http://37.203.209.34:443/mobile/flash20/live.m3u8
 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/gg/go_shop_my.png" group-title="Variety",ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_movies_premium_asia.png" group-title="Movies",FOX MOVIES PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/uu/universal_channel_us_hd.png" group-title="Movies",UNIVERSAL CHANNEL
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/uu/universal_channel_us_hd.png" group-title="Variety",UNIVERSAL CHANNEL
 http://103.245.167.28/tot/a7105ed1bb0a44bba1f4f71f2352b892.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_first_my.png" group-title="Movies",ASTRO FIRST: POLIS EVO
