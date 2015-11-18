@@ -1,0 +1,175 @@
+#EXTM3U
+#ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/id.png" group-title="Indonesia",INDONESIA TV
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/antv.png" group-title="Indonesia",ANTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/antara_tv.png" group-title="Indonesia",ANTARA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/antaratv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/ahsan_tv_id.png" group-title="Indonesia",AHSAN TV
+rtmp://202.182.56.21/live/ahsantv
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/aswaja_tv_id.png" group-title="Indonesia",ASWAJA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/aswajatv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/berita_satu_tv.png" group-title="Indonesia",BERITA SATU
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/beritasatu_240p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bunayya_tv_id.png" group-title="Indonesia",BUNAYYA TV
+http://wowza60.indostreamserver.com:1935/bunayyatv/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/cc/ctv_manado_id.png" group-title="Indonesia",CTV NETWORK
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/cahayatv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/dd/da_ai_tv_id.png" group-title="Indonesia",DAAI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/daaitv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/dd/damai_tv_id.png" group-title="Indonesia",DAMAI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/more1_240p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/dd/daqu_tv_id.png" group-title="Indonesia",DAQU TV
+rtmp://stream.pencerahan.tv/live/daqutv
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/dd/dmc_tv_id.png" group-title="Indonesia",DMC TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/dmctv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ee/elshinta_tv_id.png" group-title="Indonesia",ELSHINTA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/elshintatv_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/gg/global_tv_id.png" group-title="Indonesia",GLOBAL TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/globaltv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/haari_tv.png" group-title="Indonesia",HAARI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/more2_240p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/hh/hang_id_tv.png" group-title="Indonesia",HANG TV
+rtmp://128.199.96.198:1935/live/hangtv
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hot_hits_id.png" group-title="Indonesia",HOT HITS
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/hothits_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/ini_tv_id.png" group-title="Indonesia",INI TV
+http://streaming.initv.net:1935/live/_definst_/Stream1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ii/inspira_tv_id.png" group-title="Indonesia",INSPIRA TV
+http://video.inspira.tv:1935/inspiratv/live.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ii/indosiar.png" group-title="Indonesia",INDOSIAR TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/indosiar2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ii/i_news_tv_id.png" group-title="Indonesia",INEWS TV
+http://livemedia.mncplaymedia.net/cdn/iptv/Tvod/001/channel2000029/index.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ii/insan_tv.png" group-title="Indonesia",INSAN TV
+rtmp://insantv.com/live/insantv_360p
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/jj/jak_tv.png" group-title="Indonesia",JAK TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/jaktv_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/jj/jek_tv_id.png" group-title="Indonesia",JEK TV
+rtmp://182.253.193.35:1935/live/myStream1
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/jj/jtv_id.png" group-title="Indonesia",JTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/jawatv_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kompas_tv_id.png" group-title="Indonesia",KOMPAS TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/kompastv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ll/lbs_tv_id.png" group-title="Indonesia",LBS INDO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/lbsindrama_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ll/lbs_tv_id.png" group-title="Indonesia",LBS KOREA TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ldrama2_240p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/metro_tv_id.png" group-title="Indonesia",METRO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/metrotv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mnc_id_tv.png" group-title="Indonesia",MNCTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mnctv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/mivo_tv.png" group-title="Indonesia",MIVO TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/mivotv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="",MUHAMMADIYAH TV
+http://180.250.29.21/jhos/muhammadiyahtv/1441234251/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nabawi_tv_jo.png" group-title="Indonesia",NABAWI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nabawitv_192p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/nn/net_tv_id.png" group-title="Indonesia",NET. TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/nettv_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/oo/o_channel_id.png" group-title="Indonesia",O CHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/ochannel_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rcti_id.png" group-title="Indonesia",RCTI TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rcti2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indonesia",RTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/rajawalitv.stream_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rodja_tv.png" group-title="Indonesia",RODJA TV
+rtmp://vids.rodja.tv:1935/live/rodja
+
+#EXTINF:0 tvg-logo="" group-title="Indonesia",SALWA TV
+rtmp://119.235.249.60:1935/salamdakwah/live
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/sctv_id.png" group-title="Indonesia",SCTV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/sctv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_anak_space_toon_id.png" group-title="Cartoons",SPACETOON TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_anak_space_toon_id.png" group-title="Cartoons",SPACETOON 2 TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/spacetoon2_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ss/surau_tv_id.png" group-title="Indonesia",SURAU TV
+http://wowza60.indostreamserver.com:1935/surautv/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tahfidz_tv_id.png" group-title="Indonesia",TAHFIDZ TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+
+#EXTINF:0 tvg-logo="" group-title="Indonesia",TVRI 1
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrinasional_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indonesia",TVRI 2
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvrijakarta_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indonesia",TVRI 3
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvribudaya_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Indonesia",TVRI 4
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvriolahraga_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="Indonesia",TRANS 7
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/trans72_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/trans_tv_id.png" group-title="Indonesia",TRANS TV
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/transtv2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/the_indonesia_channel_id.png" group-title="Indonesia",THE INDONESIA CHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/theindonesiachannel_480p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_one_id.png" group-title="Indonesia",TV ONE
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/tvone2_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tvri_edukasi_id.png" group-title="Indonesia",TV EDUKASI
+http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv9_surabaya_id.png" group-title="Indonesia",TV9
+rtmp://119.235.249.60/tv9/live
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/uu/u_channel_id.png" group-title="Indonesia",u CHANNEL
+http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/uu/ummat_tv_id.png" group-title="Indonesia",UMMAT TV
+http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wesal_tv_id.png" group-title="Indonesia",WESAL TV
+rtmp://119.235.249.60:1935/wesaltv/live
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/zz/zakat_tv_id.png" group-title="Indonesia",ZAKAT TV
+rtmp://118.91.130.57:1935/live/zakattv
