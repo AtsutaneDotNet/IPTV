@@ -1,16 +1,16 @@
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/syfy_br.png",SYFY
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/syfy_br.png" group-title="Movies",SYFY
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png",HBO
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png" group-title="Movies",HBO
 http://37.203.209.34:443/mobile/flash20/live.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_best_my.png",ASTRO BEST
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_best_my.png" group-title="Movies",ASTRO BEST
 http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs_action_uk.png",CBS ACTION
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs_action_uk.png" group-title="Movies",CBS ACTION
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=28
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cartoon_network_global.png",CARTOON NETWORK
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cartoon_network_global.png" group-title="Cartoons",CARTOON NETWORK
 http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8

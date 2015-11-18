@@ -1,32 +1,32 @@
 #EXTM3U
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png",ASTRO SUPERSPORT
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORT
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_2.png",ASTRO SUPERSPORT 2
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORT 2
 http://185.63.252.176/live/antenasportucl2/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_3.png",ASTRO SUPERSPORT 3
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORT 3
 http://185.63.252.176/live/antenasportucl3/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_4.png",ASTRO SUPERSPORT 4
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORT 4
 http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ee/eurosport_fr_1.png",EUROSPORT
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ee/eurosport_fr_1.png" group-title="Sports",EUROSPORT
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nfl_network_us.png",NFL NETWORK
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nfl_network_us.png" group-title="Sports",NFL NETWORK
 http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport1_hr.png",ARENA SPORT 1
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport1_hr.png" group-title="Sports",ARENA SPORT 1
 http://212.200.101.3:5000/udp/237.0.0.1:5000
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport2_hr.png",ARENA SPORT 2
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport2_hr.png" group-title="Sports",ARENA SPORT 2
 http://212.200.101.3:5000/udp/237.0.0.2:5000
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport3_hr.png",ARENA SPORT 3
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport3_hr.png" group-title="Sports",ARENA SPORT 3
 http://212.200.101.3:5000/udp/237.0.0.3:5000
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport4_hr.png",ARENA SPORT 4
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/arenasport4_hr.png" group-title="Sports",ARENA SPORT 4
 http://212.200.101.3:5000/udp/237.0.0.4:5000
