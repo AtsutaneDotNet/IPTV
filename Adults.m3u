@@ -27,10 +27,10 @@ http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3
 #EXTINF:0 tvg-logo="",JAPAN AV
 https://raw.githubusercontent.com/AtsutaneDotNet/IPTV/master/Adults/JapanAv.m3u
 
-#EXTINF:0 tvg-logo="",JAZMIN TV
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/jj/jasmin_tv_lu.png",JAZMIN TV
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 
-#EXTINF:0 tvg-logo="",PRIVATE.COM
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/private_tv_es.png",PRIVATE.COM
 http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
 
 #EXTINF:0 tvg-logo="",TINY 4K
