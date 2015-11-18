@@ -6,6 +6,9 @@ https://raw.githubusercontent.com/AtsutaneDotNet/IPTV/master/Malaysia%20IPTV.m3u
 #EXTINF:0 tvg-logo="",INDONESIA CHANNELS
 https://raw.githubusercontent.com/AtsutaneDotNet/IPTV/master/Indonesia%20IPTV.m3u
 
+#EXTINF:0 tvg-logo="",VARIETY CHANNELS
+https://raw.githubusercontent.com/AtsutaneDotNet/IPTV/master/Variety.m3u
+
 #EXTINF:0 tvg-logo="",SPORT CHANNELS
 https://raw.githubusercontent.com/AtsutaneDotNet/IPTV/master/Sports.m3u
 
