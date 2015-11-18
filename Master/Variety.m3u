@@ -6,10 +6,10 @@ http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/hh/hbo_asia.png" group-title="Movies",HBO
 http://37.203.209.34:443/mobile/flash20/live.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/gg/go_shop_my.png" group-title="Variety",ASTRO GO SHOP
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/gg/go_shop_my.png" group-title="Astro",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_arena_my.png" group-title="Sport",ASTRO ARENA
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_arena_my.png" group-title="Astro",ASTRO ARENA
 http://www.layarku.tv/media/arenav6.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_movies_premium_asia.png" group-title="Movies",FOX MOVIES PREMIUM
@@ -69,7 +69,7 @@ http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
 #EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",TURBO
 http://www.deadlyblogger.com/NewRelease/turbo.mp4
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_best_my.png" group-title="Movies",ASTRO BEST
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Video On Demand",VIDEO ON DEMAND
 http://iphone-streaming.ustream.tv/ustreamVideo/20752580/streams/live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs_action_uk.png" group-title="Movies",CBS ACTION

@@ -1,7 +1,5 @@
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/flag/az/my.png",MALAYSIA TV
-
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Free To Air",TV1
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch001.smil/chunklist_w1783764146_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9UEdpQ1VRNDZNOWpWaUc3Y2NkRlhXMFJJaU10M2QxenpqZkhTSF82V1pJYz0=.m3u8
 

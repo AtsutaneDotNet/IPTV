@@ -1,16 +1,16 @@
 #EXTM3U
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png" group-title="Sports",ASTRO SUPERSPORT
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my.png" group-title="Astro",ASTRO SUPERSPORT
 http://185.63.252.176/live/antenasportucl1/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_2.png" group-title="Sports",ASTRO SUPERSPORT 2
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_2.png" group-title="Astro",ASTRO SUPERSPORT 2
 http://185.63.252.176/live/antenasportucl2/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_3.png" group-title="Sports",ASTRO SUPERSPORT 3
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_3.png" group-title="Astro",ASTRO SUPERSPORT 3
 http://185.63.252.176/live/antenasportucl3/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_4.png" group-title="Sports",ASTRO SUPERSPORT 4
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_supersport_my_4.png" group-title="Astro",ASTRO SUPERSPORT 4
 http://185.63.252.176/live/antenasportucl4/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ee/eurosport_fr_1.png" group-title="Sports",EUROSPORT
