@@ -9,6 +9,9 @@ http://37.203.209.34:443/mobile/flash20/live.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/gg/go_shop_my.png" group-title="Variety",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_arena_my.png" group-title="Sport",ASTRO ARENA
+http://www.layarku.tv/media/arenav6.m3u8
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_movies_premium_asia.png" group-title="Movies",FOX MOVIES PREMIUM
 http://streaming.jogjamedianet.com:1935/live/fmp.sdp/lihattv.m3u8
 
