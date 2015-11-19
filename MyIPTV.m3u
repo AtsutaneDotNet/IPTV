@@ -5,10 +5,10 @@
 #EXTINF:0 tvg-logo="" group-title="Indonesia",Indonesia
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Malaysia",TV1
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch001.smil/chunklist_w1783764146_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9UEdpQ1VRNDZNOWpWaUc3Y2NkRlhXMFJJaU10M2QxenpqZkhTSF82V1pJYz0=.m3u8
+http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png" group-title="Malaysia",TV2
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch002.smil/chunklist_w1010690023_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9Zm5HQUZ3anhwajFES3Y3Zk53MGZ0V01jVUpCRThLQk9jMWdIaE55Ynl0RT0=.m3u8
+http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv3_my.png" group-title="Malaysia",TV3
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
