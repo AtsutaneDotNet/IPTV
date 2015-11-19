@@ -29,7 +29,7 @@ http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 http://goo.gl/x1ybsM
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="Astro",ASTRO AWANI
-rrtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
+rtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/gg/go_shop_my.png" group-title="Astro",ASTRO GO SHOP
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
