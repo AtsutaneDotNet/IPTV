@@ -1,9 +1,6 @@
 #EXTM3U
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
-#EXTINF:0 tvg-logo="" group-title="Malaysia",Malaysia
-#EXTINF:0 tvg-logo="" group-title="Indonesia",Indonesia
-
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Malaysia",TV1
 http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/playlist.m3u8
 
