@@ -11,7 +11,7 @@ http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/playlist.m3u8
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/nn/ntv7.png" group-title="Malaysia",NTV7
-http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3u8
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master002.m3atu8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/num/8tv_my.png" group-title="Malaysia",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
@@ -23,7 +23,7 @@ http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/astro_ria.png" group-title="Astro",ASTRO RIA
-http://goo.gl/x1ybsM
+http://www.layarku.tv/media/arenav6.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="Astro",ASTRO AWANI
 rtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
@@ -32,7 +32,7 @@ rtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
 http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_arena_my.png" group-title="Astro",ASTRO ARENA
-http://www.layarku.tv/media/arenav6.m3u8
+http://penang.layarku.tv/edge/149_330_live/chunklist_w52914436.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png" group-title="Malaysia",TVI
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch003.smil/chunklist_w1793954041_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9TnpEanpxS1lkQnp6NzhoeWZIZTRaaGV2MXlrVHF1cVRtcWNMU0I5alNIQT0=.m3u8
