@@ -19,6 +19,15 @@ http://46.47.0.238:8890/rtp/224.244.244.197:19993
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/sexto_senso_it.png" group-title="Adults",SEXTO SENSO
 http://46.47.0.238:8890/rtp/224.244.244.195:19993
 
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",JUICY XXX
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=30
+
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",SEXTREME
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=26
+
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",XTSY XXX
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=31
+
 #EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Passion XXX",PASSION XXX HD
 http://46.47.0.238:8890/rtp/224.244.244.194:19993
 
