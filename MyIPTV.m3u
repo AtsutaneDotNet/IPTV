@@ -64,6 +64,9 @@ http://204.107.26.92:1935/vodlast/1054.m4v/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png" group-title="News",AL JAZEERA
 rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/sky_au_news.png" group-title="News",SKYNEWS HD
+http://103.245.167.28/tot/31b003ab7e7749a798fe00424e3dd9ff.m3u8
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png" group-title="Malaysia",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
 
