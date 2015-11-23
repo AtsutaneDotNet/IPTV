@@ -52,6 +52,18 @@ http://d22b8vh21p20bg.cloudfront.net/mylive/smil:bernama2_all.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/bloomberg_tv_us.png" group-title="News",BLOOMBERG
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/abc_hd.png" group-title="News",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/cc/cbs.png" group-title="News",CBS NEWS
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/nn/nbc_us_central.png" group-title="News",NBC NEWS
+http://204.107.26.92:1935/vodlast/1054.m4v/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/al_jazeera_english.png" group-title="News",AL JAZEERA
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png" group-title="Malaysia",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
 
