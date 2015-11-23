@@ -2,10 +2,10 @@
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/playboy_tv_us.png" group-title="Adults",PLAYBOY TV
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=70
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/vv/venus_ar.png" group-title="Adults",VENUS TV
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
+http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=25
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/redlight_hd.png" group-title="Adults",REDLIGHT HD
 http://46.47.0.238:8890/rtp/224.244.244.157:19993
