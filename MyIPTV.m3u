@@ -68,8 +68,22 @@ rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_hig
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/syfy_br.png" group-title="Variety",SYFY
+http://103.245.167.28/tot/2e0e4b05aa6e428593f3b45b710045b7.m3u8
+
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fox_crime_asia_hd.png" group-title="Variety",FOXCRIME HD
 http://103.245.167.28/tot/71f197de056e499a85265c03b44bdab1.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/kk/kix_my_hd.png" group-title="Variety",KIX HD
+http://103.245.167.28/tot/06e717f5ec0c4657a8c76c4dfcf9449b.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/thrill_hk.png" group-title="Variety",THRILL
+http://103.245.167.28/tot/e584e0adae6440eab366f5fe3a824f91.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fyi_asia.png" group-title="Variety",FYI
+http://103.245.167.28/tot/169a149fd1ef40edba0bbfc8e0f1bdd1.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ff/fashion_tv_fr.png" group-title="Variety",FASHION TV
+http://103.245.167.28/tot/df468a12ae6547de9637486bdc2025aa.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/baby_first_tv.png" group-title="Variety",BABY FIRST TV
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=1
