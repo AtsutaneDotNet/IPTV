@@ -5,7 +5,7 @@
 http://sftr89en.edem.tv/iptv/7S87XERM7HPVBR/527/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/vv/venus_ar.png" group-title="Adults",VENUS TV
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=25
+#http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=25
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/redlight_hd.png" group-title="Adults",REDLIGHT HD
 http://46.47.0.238:8890/rtp/224.244.244.157:19993
