@@ -2,7 +2,7 @@
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/playboy_tv_us.png" group-title="Adults",PLAYBOY TV
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=70
+http://sftr89en.edem.tv/iptv/7S87XERM7HPVBR/527/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/vv/venus_ar.png" group-title="Adults",VENUS TV
 http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=25
@@ -14,19 +14,19 @@ http://46.47.0.238:8890/rtp/224.244.244.157:19993
 http://46.47.0.238:8890/rtp/224.244.244.158:19993
 
 #EXTINF:0 tvg-logo="http://www.sat-address.com/f/pics/logotipi/SCT-Exotica-TV_o.jpg" group-title="Adults",EXOTICA
-http://46.47.0.238:8890/rtp/224.244.244.197:19993
+#http://46.47.0.238:8890/rtp/224.244.244.197:19993
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/ss/sexto_senso_it.png" group-title="Adults",SEXTO SENSO
 http://46.47.0.238:8890/rtp/224.244.244.195:19993
 
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/378800000565566165/5ce9a3fcfcb8759d8583eb93d599bdb8.jpeg" group-title="Adults",JUICY TV
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=30
+#http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=30
 
 #EXTINF:0 tvg-logo="http://vtr.com/empresa/images/SEXTREAM.bmp" group-title="Adults",SEXTREME
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=26
+#http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=26
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/xx/xtsy_by_free_x_tv2.png" group-title="Adults",XTSY
-http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=31
+#http://public.tuiptv.biz/public/PlayList.php?id=20e12547-5adb-4dc6-89af-41e6e7e6d4f3&channel=31
 
 #EXTINF:0 tvg-logo="https://online.passiexxx.nl/app/VOD/Views/passiexxx/img/logo.png" group-title="Adults",PASSIE XXX HD
 http://46.47.0.238:8890/rtp/224.244.244.194:19993
@@ -40,20 +40,35 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/pp/private_tv_es.png" group-title="Adults",PRIVATE.COM
 http://publish.thewebstream.co:1935/leved/_definst_/privateCom/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV",JAPAN AV: VOD 1
-#rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",PARADISE TV
+http://edge2.everyon.tv:1935/etv2/phd1008/huraivza.m3u8
 
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV",JAPAN AV: VOD 1
-http://edge2.everyon.tv/etv2/pld1008/Cookiemonster.m3u8
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",OKADAI TV
+http://edge2.everyon.tv:1935/etv2/phd1003/HasBahCa.m3u8
 
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV",JAPAN AV: VOD 2
-http://edge2.everyon.tv/etv2/pld1003/Cookiemonster.m3u8
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",ASK TV
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
 
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV",JAPAN AV: VOD 3
-http://edge2.everyon.tv/etv2/pld1005/Cookiemonster.m3u8
-
-#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="JapanAV",JAPAN AV: VOD 4
+#EXTINF:0 tvg-logo="http://stg_acm_vendor.pink.cat/vod/images/vod_logo.png" group-title="Adults",PREMIUM TV
 http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/bb/brazzers_tv_nz.png" group-title="Adults",BRAZZERS TV
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/brazzers_xx.png" group-title="Adults",BRAZZERS X
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Adults",TV LUNA
+http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/bb/brazzers_xx.png" group-title="Adults",GIRLS TV
+http://edge2.everyon.tv:1935/etv2sb/phd501/HasBahCa.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Adults",FETISH WOMAN KR
+rtmp://edge2.everyon.tv/etv2sb/phd968
+
+#EXTINF:0 tvg-logo="" group-title="Adults",SAKURA TV
+http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
 
 #EXTINF:0 tvg-logo="http://maispremium.com/img/servidores/tiny4k.png" group-title="Tiny4K",TINY4K: VOD1
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
@@ -87,148 +102,3 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avata
 
 #EXTINF:0 tvg-logo="http://maispremium.com/img/servidores/tiny4k.png" group-title="Tiny4K",TINY4K: VOD11
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
-
-#EXTINF:-1,AMATEUR
-rtmp://64.62.143.5/live/do%20not%20steal%20my-Stream2
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-#EXTINF:-1,BLUE HUSTLER
-http://j.mp/ZCH_C03_BLUEHUSTLER2_sly?.m3u8
-#EXTINF:-1,BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1,BRAZZERS X
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
-#EXTINF:-1,DJING HOT
-http://cdn.djing.com/tv/h-05.m3u8
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-#EXTINF:-1,HUSTLER
-http://78.30.254.27:8989/udp/239.0.0.199:4000
-#EXTINF:-1,JASMIN TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1,LATIN LIVE SEX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-#EXTINF:-1,LATINAS
-http://tinyurl.com/pyumlyd
-#EXTINF:-1,LATINAS XX
-http://tinyurl.com/pylkzhb
-#EXTINF:-1,MIAMI TV
-http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
-#EXTINF:-1,New channel – http://84.238.227.17:1234/udp/239.130.50.130:9001
-http://84.238.227.17:1234/udp/239.130.50.130:9001
-#EXTINF:-1,New channel – http://84.238.227.17:1234/udp/239.130.50.132:9001
-http://84.238.227.17:1234/udp/239.130.50.132:9001
-#EXTINF:-1,OLALA
-http://188.17.143.39/hls/CH_C06_OLALA/variant.m3u8?version=2
-#EXTINF:-1,OLALA
-http://j.mp/ZCH_C06_OLALA_sly?.m3u8
-#EXTINF:-1,OLALA
-http://j.mp/ZCH_C06_OLALA_sly
-#EXTINF:-1,OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1,PASSIE XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,PASSIE XXX
-http://q.gs/9830047/sex3todokodi
-#EXTINF:-1,PENTHOUSE HD
-http://84.238.227.17:1234/udp/239.130.50.124:9001
-#EXTINF:-1,PLAYBOY
-http://sftr89en.edem.tv/iptv/7S87XERM7HPVBR/527/index.m3u8
-#EXTINF:-1,PLAYBOY
-http://78.30.254.27:8989/udp/239.0.0.200:4000
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-#EXTINF:-1,PRIVATE COM
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,RUSSIAN NIGHT
-http://j.mp/ZCH_C01_RUSNIGHT2_sly?.m3u8
-#EXTINF:-1,RUSSIAN NIGHT
-http://78.30.254.27:8989/udp/239.0.0.198:4000
-#EXTINF:-1,SCT
-http://84.238.227.17:1234/udp/239.130.50.129:9001
-#EXTINF:-1,Service01
-http://illegalbox.mine.nu:8000/illegal/illegal/100
-#EXTINF:-1,Service02
-http://illegalbox.mine.nu:8000/illegal/illegal/87
-#EXTINF:-1,Service03
-http://illegalbox.mine.nu:8000/illegal/illegal/88
-#EXTINF:-1,Service04
-http://illegalbox.mine.nu:8000/illegal/illegal/89
-#EXTINF:-1,Service05
-http://illegalbox.mine.nu:8000/illegal/illegal/93
-#EXTINF:-1,Service06
-http://illegalbox.mine.nu:8000/illegal/illegal/94
-#EXTINF:-1,Service07
-http://illegalbox.mine.nu:8000/illegal/illegal/95
-#EXTINF:-1,Service08
-http://illegalbox.mine.nu:8000/illegal/illegal/96
-#EXTINF:-1,Service09
-http://illegalbox.mine.nu:8000/illegal/illegal/97
-#EXTINF:-1,Service10
-http://illegalbox.mine.nu:8000/illegal/illegal/98
-#EXTINF:-1,Service11
-http://illegalbox.mine.nu:8000/illegal/illegal/99
-#EXTINF:-1,SEXT 6 SENSO
-http://84.238.227.17:1234/udp/239.130.50.126:9001
-#EXTINF:-1,SOBLAZN
-http://j.mp/SOBLAZN_sly
-#EXTINF:-1,SOBLAZN
-http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
-#EXTINF:-1,STORM BABES
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
-#EXTINF:-1,T GIRLS
-http://84.238.227.17:1234/udp/239.130.50.127:9001
-#EXTINF:-1,TELE ITALIA HD
-http://84.238.227.17:1234/udp/239.130.50.128:9001
-#EXTINF:-1,TV LUNA
-http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
-#EXTINF:-1,WOW GIRLS
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
-#EXTINF:-1,X1
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
-#EXTINF:-1,X2
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive2/smil:tvmia-arg-vodlive2.smil/playlist.m3u8
-#EXTINF:-1,X3
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive3/smil:tvmia-arg-vodlive3.smil/playlist.m3u8
-#EXTINF:-1,XXX
-http://bit.ly/1jGYwsX
-#EXTINF:-1,ASIA 4
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,ASK TV
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-#EXTINF:-1,czech +18 mmsh
-mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,GIRLS TV
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1,KOREA GIRLS TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/HasBahCa.m3u8
-#EXTINF:-1,Korea m3u8 Okadai
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1,KOREA OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/HasBahCa.m3u8
-#EXTINF:-1,Korea rtmp Okadai
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1,Korea rtmp Paradise TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,Korea RTMP 韩国phd1008
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1,Korea RTMP 韩国phd501
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1,Korea RTMP 韩国phd61
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1,Korea RTMP 韩国phd968
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1,KOREA SAKURA
-http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
-#EXTINF:-1,KOREA SEX
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1,PARADISE
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1,PARADISE
-http://edge2.everyon.tv:1935/etv2/phd1008/huraivza.m3u8
-#EXTINF:-1,PREMIUM
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
-#EXTINF:-1,SAKURA
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1,SATISFACTION
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
