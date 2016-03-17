@@ -2,10 +2,10 @@
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Variety",TV1
-http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv1/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png" group-title="Variety",TV2
-http://edge.cdn.aims.com.my/live/Raffcomm/rtmtv2/playlist.m3u8
+http://rtm-live.glueapi.io/smil:rtm-ch002.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv3_my.png" group-title="Variety",TV3
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
@@ -20,10 +20,10 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png" group-title="Variety",TVI
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch003.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939766&myTokenPrefixhash=fyc20aMWYk7G-wIkXlKAJsAYNQwlWuNLi8evdcqgZP4=
+http://rtm-live.glueapi.io/smil:rtm-ch003/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_galaksi_muzik_my.png" group-title="Variety",MUSIK AKTIF
-http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch004.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939779&myTokenPrefixhash=WI6NIvXVc7FDAyC-y_qT_7Nf8U4bHzQ-XzSu-OlFeRc=
+http://rtm-live.glueapi.io/smil:rtm-ch004.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png" group-title="Variety",PARLIMEN TV
 #http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch007.smil/chunklist_w10647817_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9bVQ3blJLc1dSSGhrV2pPWFVLcWZkZUE1aGZUcHlvV2dQRUk0R0ZhUWhZYz0=.m3u8
@@ -167,7 +167,7 @@ http://118.98.221.131/live/smil:tvedukasi.smil/playlist.m3u8
 http://edge.nim.mivo.tv/mp17pjqx1esapruf/uchannel_576p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv_alhijrah.png" group-title="Religions",AL-HIJRAH
-#http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
+http://d2f9tqsihrp4sc.cloudfront.net/livecf/smil:tvah_hypptv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/ahsan_tv_id.png" group-title="Religions",AHSAN TV
 rtmp://202.182.56.21/live/ahsantv
@@ -200,7 +200,7 @@ http://ummattv2.onlivestreaming.net/ummattv2/livestream/playlist.m3u8
 rtmp://118.91.130.57:1935/live/zakattv
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/aa/astro_awani.png" group-title="News",ASTRO AWANI
-rtmp://cp160334.live.edgefcs.net/live/AstroAwani24x7_3@74937
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AWANI.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/num/1_news_my.png" group-title="News",1 NEWS
 http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:rtm-ch006.smil/playlist.m3u8?myTokenPrefixstarttime=0&myTokenPrefixendtime=1448939814&myTokenPrefixhash=ETalAYCShHTGxF0z-LhKej7Sx1gB6U1v9knEl1SUXl4=
