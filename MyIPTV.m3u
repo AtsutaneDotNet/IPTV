@@ -2,10 +2,12 @@
 #ATSUTANEDOTNET - HTTPS://ATSUTANE.NET
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tv1_my.png" group-title="Variety",TV1
-http://rtm-live.glueapi.io/smil:rtm-ch001.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent="Flutter/2.0.14 (Linux;Android 8.1.0) ExoPlayerLib/2.6.0"
+http://rtm-live.glueapi.io/smil:rtmch001/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm2_malaysia.png" group-title="Variety",TV2
-http://rtm-live.glueapi.io/smil:rtm-ch002.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent="Flutter/2.0.14 (Linux;Android 8.1.0) ExoPlayerLib/2.6.0"
+http://rtm-live.glueapi.io/smil:rtmch002/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv3_my.png" group-title="Variety",TV3
 http://sg.layarku.tv:1935/edge/149_323_live/chunklist_w154676771.m3u8
