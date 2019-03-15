@@ -21,14 +21,20 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master002.m3u8
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/tt/tv9_my.png" group-title="Variety",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png" group-title="Variety",TVI
-http://rtm-live.glueapi.io/smil:rtm-ch003/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_tvi_my.png" group-title="Variety",OKeY
+#EXTVLCOPT:http-user-agent="Flutter/2.0.14 (Linux;Android 8.1.0) ExoPlayerLib/2.6.0"
+http://rtm-live.glueapi.io/smil:rtmch003/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/logo/tv/rr/rtm_galaksi_muzik_my.png" group-title="Variety",MUSIK AKTIF
 http://rtm-live.glueapi.io/smil:rtm-ch004.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png" group-title="Variety",PARLIMEN TV
-#http://livestreaming-1528489630.ap-southeast-1.elb.amazonaws.com/liveedge/smil:mobile_rtm-ch007.smil/chunklist_w10647817_b364000_tkbXlUb2tlblByZWZpeHN0YXJ0dGltZT0wJm15VG9rZW5QcmVmaXhlbmR0aW1lPTE0NDc5MzE1MzkmbXlUb2tlblByZWZpeGhhc2g9bVQ3blJLc1dSSGhrV2pPWFVLcWZkZUE1aGZUcHlvV2dQRUk0R0ZhUWhZYz0=.m3u8
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png" group-title="Variety",PARLIMEN DEWAN RAKYAT
+#EXTVLCOPT:http-user-agent="Flutter/2.0.14 (Linux;Android 8.1.0) ExoPlayerLib/2.6.0"
+http://rtm-live.glueapi.io/smil:rtmch007/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/rr/rtm_parlimen_my.png" group-title="Variety",1 NEWS
+#EXTVLCOPT:http-user-agent="Flutter/2.0.14 (Linux;Android 8.1.0) ExoPlayerLib/2.6.0"
+http://rtm-live.glueapi.io/smil:rtmch006/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.lyngsat-logo.com/hires/mm/mara_tv_my.png" group-title="Variety",MARA TV
 http://stream2.1malaysiaiptv.com/mylive/smil:maratv_all.smil/chunklist_w387938424_b1000000_sleng.m3u8
